@@ -1,0 +1,7 @@
+C:\Users\artur\source\repos\Lab2-cs\Lab2-cs\bin\Debug\Lab2-cs.exe.config
+C:\Users\artur\source\repos\Lab2-cs\Lab2-cs\bin\Debug\Lab2-cs.exe
+C:\Users\artur\source\repos\Lab2-cs\Lab2-cs\bin\Debug\Lab2-cs.pdb
+C:\Users\artur\source\repos\Lab2-cs\Lab2-cs\obj\Debug\Lab2-cs.csprojResolveAssemblyReference.cache
+C:\Users\artur\source\repos\Lab2-cs\Lab2-cs\obj\Debug\Lab2-cs.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\Lab2-cs\Lab2-cs\obj\Debug\Lab2-cs.exe
+C:\Users\artur\source\repos\Lab2-cs\Lab2-cs\obj\Debug\Lab2-cs.pdb
